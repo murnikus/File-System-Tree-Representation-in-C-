@@ -1,1 +1,1 @@
-# File-System-Tree-Representation-in-C-
+Developed a C++ program that constructs and displays a hierarchical tree structure representing the file system of a specified directory. The goal is to recursively traverse directories and files, creating an in-memory tree structure using a TreeNode class. This mini project helped me understand tree structures, recursion, and file system operations in C++.
